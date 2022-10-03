@@ -21,7 +21,7 @@ Setup grc_config.json
 }
 ```
 
-Place grc_config.json to `@extesnions` folder
+Place grc_config.json to `@extensions` folder
 
 ## Usage
 Execute in arma script
